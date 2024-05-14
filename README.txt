@@ -13,7 +13,7 @@ Tarefas:
 
 ANOTAÇÔES:
 -Dados obtidos pelo estado mesmo.
--Dados de SP inicio em SET-2014 - 5 GB de tabelas csv. Dados brutos no google drive
+-Dados de SP inicio em SET-2014 - 5 GB de tabelas csv. Dados brutos no google drive: https://drive.google.com/drive/folders/1kZaFcHMK8m0PjvJDC1hrY6PxFv6IJgMm?usp=sharing
 -Dados de Cotia Inicio JUL-2014
 -Fim de dados em abr-2024
 
