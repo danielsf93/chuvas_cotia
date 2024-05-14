@@ -9,3 +9,9 @@ Tarefas:
 -Criar mapa com graficos de cada ponto
 -Crar graficos completos de serie historica, destacando eventos extremos
 -Se possível, criar modelos matemáticos de previsão.
+
+
+ANOTAÇÔES:
+-Dados obtidos pelo estado mesmo.
+-Dados de SP inicio em SET-2014
+-Dados de Cotia Inicio JUL-2014
