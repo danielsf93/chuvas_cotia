@@ -13,5 +13,9 @@ Tarefas:
 
 ANOTAÇÔES:
 -Dados obtidos pelo estado mesmo.
--Dados de SP inicio em SET-2014
+-Dados de SP inicio em SET-2014 - 5 GB de tabelas csv. Dados brutos no google drive
 -Dados de Cotia Inicio JUL-2014
+-Fim de dados em abr-2024
+
+
+-Dados podem ser obtidos diretamente pelo form, sem necessitar de mapa: http://www2.cemaden.gov.br/mapainterativo/download/download_form.php
