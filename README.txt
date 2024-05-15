@@ -28,3 +28,8 @@ ANOTAÇÔES:
 351300903A;SP;Jardim Adelina;-23,602;-46,931
 351300905A;SP;Parque Miguel Mirizola;-23,5801;-46,9176
 351300906H;SP;Rio Cotia;-23,6087;-46
+
+Pesquisa por bacia e sub-bacia em https://datageo.ambiente.sp.gov.br/app/
+Shapes: 
+*Limite das Sub-Bacias Hidrográficas do Estado de São Paulo
+*Limites Municipais do Estado de São Paulo 2021 (IGC)
